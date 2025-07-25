@@ -1,0 +1,561 @@
+car_vin,car_make,car_model,car_year,car_color,car_price,car_mileage,car_condition,car_owner,car_location
+WAUKF98E86A042105,Pontiac,Daewoo Kalos,2006,green,190786.78,492822,fair,Gradeigh Loveard,8015 Schlimgen Lane
+ML32A3HJ4FH011889,Mazda,Mazda3,2004,red,335812.95,106441,fair,Concordia Foxwell,83805 Fordem Alley
+2C4RDGCG0ER427737,Maserati,,1986,green,646066.28,270114,excellent,Muhammad Byrch,
+1N6AA0CCXAN815041,Maybach,62,2004,green,374676.75,129855,good,Katusha Teodorski,3550 Pleasure Parkway
+2HNYD18814H803970,Chevrolet,Suburban 1500,1998,blue,101527.1,121175,excellent,Annabela Heed,8268 Shasta Street
+SALVN2BG2EH390310,Maserati,GranSport,2005,blue,580969.93,303061,poor,Amelita Whiteson,31137 Elgar Way
+3GYFNFEY3BS120748,Aston Martin,Rapide,2011,blue,996526.76,226316,excellent,,203 Pepper Wood Crossing
+WBAUC7C51AV923663,Kia,Sephia,1998,black,545228.27,353290,good,Borden Boston,635 Melvin Court
+19UYA42752A896375,Ford,Focus,2011,red,379398.45,317203,poor,Nettie Edgeworth,7 Claremont Junction
+WAUKF78E28A632579,Porsche,Cayenne,2012,white,850065.95,138155,poor,Flory Moloney,7 South Road
+WA1MKAFP6AA689344,Nissan,Altima,1995,red,224821.75,438586,fair,Helen-elizabeth Wallworke,98 Gina Road
+WAUGU44D43N624637,Mercury,Lynx,1984,black,22874.66,129360,good,Standford O'Lunny,2482 Wayridge Pass
+WBAPK5C52BF765138,Porsche,Boxster,2004,white,760277.72,228739,poor,Tova Extal,0 Russell Court
+JTHBW1GG2F2379367,Acura,ZDX,2010,white,478846.86,150842,fair,Kriste Aggio,1357 Arapahoe Pass
+JTDZN3EU4EJ845327,Mercedes-Benz,300E,1992,red,568260.04,400248,excellent,Evaleen Tuffs,5 Sommers Crossing
+1GYEK63N92R232468,Toyota,RAV4,1998,blue,242232.49,205424,poor,Hervey Clitsome,189 Evergreen Drive
+3D7TT2HT0AG390518,Dodge,Caravan,1996,white,817625.88,397335,fair,Ann-marie Platfoot,6 Laurel Crossing
+1FMEU6DE7AU675642,Mazda,MX-5,1996,blue,885267.7,194103,excellent,Hugibert Phythian,
+2B3CA2CV0AH693468,Buick,Hearse,1996,black,6722.1,286866,poor,Elva Marr,991 Everett Plaza
+WBA3R1C53FF061734,Toyota,Avalon,2004,green,738987.39,67441,poor,Kip Rubartelli,5051 Springview Center
+1GD01ZCG7CF612719,Acura,Legend,1993,black,846753.85,124513,excellent,Skylar Scully,98 Spenser Hill
+4T1BF3EK3AU680145,Mitsubishi,Pajero,1999,black,714359.61,237285,good,Jocelyne Darlasson,737 Glacier Hill Junction
+WDDUG7JB3FA702280,GMC,Sierra Denali,2006,red,908424.88,174827,fair,Natalee Dighton,8032 Lien Alley
+19XFA1E8XAE462389,Nissan,Pathfinder,2006,blue,615091.91,388288,poor,Cassey Fist,
+WBANE53517B061204,Hyundai,Santa Fe,2002,black,579338.96,6467,excellent,Silas Ruggles,10 Hintze Point
+WBAKB0C55CC656950,Oldsmobile,Aurora,2002,black,575448.85,110673,excellent,Abie Grishunin,9754 Ridge Oak Park
+JH4CL96845C606850,Mazda,Protege,2003,red,664010.21,27563,poor,Violette Wehden,
+JN8AZ2NC6F9929420,Dodge,Challenger,2012,white,100854.9,148398,good,Marjorie Pelerin,8 Lunder Lane
+JN1AY1AP2BM490311,Chevrolet,Astro,1994,red,900764.48,20285,good,Judd Keston,
+2FMPK3J9XFB914764,Ford,Aerostar,1995,blue,622103.73,181454,excellent,Reagan Spadazzi,662 Gateway Way
+1G6KD57YX9U041122,Dodge,Stratus,1996,blue,360697.01,101251,good,Elfreda Adolfson,965 Redwing Road
+JTMHY7AJ4B4271392,Chevrolet,,1977,green,428096.74,88429,poor,Augustus Povele,3 Doe Crossing Center
+1N6AA0EJ1FN723173,Ford,Thunderbird,1972,white,750630.04,86041,fair,,864 Roxbury Pass
+1FMCU4K38CK192057,MINI,Cooper Countryman,2011,green,979434.75,323443,fair,Yancy Klimshuk,3834 Harper Parkway
+2HNYD18215H620887,BMW,X6 M,2010,red,447168.34,415539,excellent,Carlynne Bliss,785 Maple Terrace
+JTMHY7AJ9F4120795,Chevrolet,Avalanche 2500,2004,blue,832718.19,4537,poor,Randall Besnardeau,9 Lighthouse Bay Point
+1G6AB5R32E0634686,Mercedes-Benz,S-Class,2001,red,163019.62,288216,fair,Koren Marklew,36715 Oak Valley Crossing
+WDDHF7GB5EA838663,Ford,,1966,black,604688.46,43260,good,Devonne Curnnokk,12 Waxwing Road
+WDBWK5JAXBF853772,Infiniti,J,1993,red,36896.8,101174,fair,,62566 Muir Terrace
+1FTSW3A58AE350254,Pontiac,Grand Prix,1976,green,10920.62,164730,fair,Kristal Colquite,321 Vahlen Lane
+YV4612HM9F1555801,Volkswagen,Passat,1985,blue,281364.42,3371,excellent,Tildi Aldhous,19 Express Junction
+2C3CK5CV5AH877273,Dodge,Ram,1994,red,820448.77,459731,good,,4560 Clarendon Road
+1G6AL5SX5E0480601,Saturn,S-Series,1999,red,205181.43,56300,good,Jazmin Pettyfer,8758 Anhalt Trail
+19XFB4F23DE227569,Volkswagen,Corrado,1991,green,853208.28,290531,excellent,Aluino Ardley,347 Dawn Lane
+5N1AZ2MGXFN285200,Volkswagen,GTI,1992,blue,134796.3,273982,fair,,13654 Oak Center
+WAUGL98E95A848354,Hyundai,Azera,2008,red,352235.75,138817,fair,Madelina Paulin,79 American Ash Trail
+KM8JT3AB1BU927433,Mazda,B2600,1989,red,642291.86,274294,good,,21535 Springs Parkway
+3D73M3HL2AG613712,BMW,8 Series,1994,green,298901.68,465012,fair,Kristina Straughan,0 Valley Edge Plaza
+WVWAA7AJXCW717878,Lamborghini,Gallardo,2011,black,706349.22,244610,fair,Dasi Silcock,223 Union Center
+WA1CFBFP9DA844690,Dodge,Viper RT/10,1993,white,256412.89,395615,good,Jacky Seaborn,84 New Castle Hill
+2G4WF551X41010385,Cadillac,SRX,2004,blue,588899.83,350640,poor,Shelby Ivic,4 Linden Lane
+1C6RD7LP2CS192924,Ford,Mustang,1988,red,216881.08,187664,fair,Joya Hamman,58 Buhler Pass
+WBAVM1C55FV623811,GMC,Rally Wagon 3500,1994,white,993113.05,288629,poor,Brigit Bly,24321 Merrick Circle
+YV1902MC1F1973893,Suzuki,Forenza,2007,green,857081.36,214184,good,Rriocard Banyard,280 Forest Dale Avenue
+19UUA9E5XDA280471,Mercury,Cougar,1987,black,751212.79,238515,excellent,Ilsa Lucock,0188 Lakewood Gardens Park
+KNAFX5A84E5560862,Subaru,Outback,2008,green,135989.62,290828,excellent,Yetty Langrish,307 Melby Pass
+WA1DVAFE7AD688112,Mercury,Grand Marquis,2002,white,926641.31,332004,excellent,Remington Tosney,3220 Ryan Pass
+1C3CC5FB1AN750199,GMC,Yukon XL 1500,2012,blue,764354.86,481320,good,Adelind McReath,2 American Circle
+WA1AV74LX7D495792,Nissan,Armada,2009,green,161454.46,49398,poor,Ewan Deans,59584 Blaine Lane
+1C3BCBEB7DN744259,Chevrolet,Suburban 2500,2000,green,625477.44,78284,fair,Falkner Edler,29 Service Crossing
+5GALVAED5AJ220487,Cadillac,SRX,2009,green,571171.31,82095,good,Humbert Maven,
+1G4HR54K32U528785,Mitsubishi,Montero Sport,2000,green,463774.0,419097,poor,Wyn Leser,3 Elka Center
+1G6KD54Y85U528320,Buick,Regal,1987,black,582602.92,182811,good,Josy Jury,8801 Almo Parkway
+2G4WD552161988582,Chevrolet,Avalanche,2012,red,137521.59,252593,excellent,Cortie Edgcumbe,558 Westend Lane
+KM8JT3AB2BU134755,Isuzu,Rodeo,2004,green,916291.62,283113,good,Afton D'Acth,6642 Division Park
+2HNYD18471H940937,BMW,7 Series,2000,black,728107.4,415222,good,Nada Bramhall,5 Lotheville Terrace
+WAULVBFRXCA762781,Mercedes-Benz,SLS-Class,2012,black,177345.94,148481,good,Filberto Bouller,35862 Susan Court
+1G6YV36A075325446,Ford,Mustang,2002,green,430031.93,180046,poor,,48 Elka Point
+KL4CJCSB3DB213863,Nissan,370Z,2010,white,687334.2,426226,excellent,,9 Magdeline Pass
+WAUFFBFL5BA173979,Eagle,Summit,1995,black,631361.1,57035,good,Carling Gallone,
+WAUFFAFL6BN537507,Isuzu,VehiCROSS,2001,black,159192.28,6673,poor,Meredith MacNelly,
+3N1AB6APXBL410214,Ford,Focus,2009,blue,681871.04,297251,fair,Myrwyn Leonardi,39491 Ridgeview Road
+JH4CW2H56DC654849,Kia,Carens,2009,red,998153.96,365632,good,Weber Hennington,
+WBANE53556C690750,Volvo,V40,2003,white,492825.78,111578,excellent,Antonie Dumphry,516 Canary Trail
+WAU2MAFC7EN461840,Geo,Tracker,1992,green,718895.88,30224,fair,Ulrica Pottinger,158 Kensington Junction
+JM3TB2BA1D0787448,Saturn,Ion,2005,blue,271282.05,57586,excellent,Lyssa Fuzzens,482 High Crossing Street
+KNAGG4A84A5415541,Lexus,IS F,2008,blue,520454.56,121287,fair,,394 Dottie Court
+KMHHT6KDXBU587165,Hyundai,Santa Fe,2001,blue,160926.48,96687,good,Birk Van der Krui,1785 Longview Way
+1FTEX1CM6CF051474,Mazda,CX-7,2012,green,963477.16,112258,poor,Robbie Lathleiffure,84554 Parkside Lane
+1FTEX1CM9DF871534,Dodge,Dakota Club,2006,white,929856.57,180587,fair,Lana Bearman,55 Vidon Way
+WAUVT68E73A853829,Cadillac,DeVille,1998,white,538862.95,494644,poor,Harman Ebbers,503 Haas Court
+SALVP2BG2FH040400,Dodge,Journey,2011,green,955969.07,342313,good,Mehetabel Glisenan,3 Waxwing Lane
+2C3CDXJG0DH977165,Volkswagen,,1993,blue,649246.55,281845,good,Abrahan Vinick,1 Sutteridge Junction
+2T1BU4EE1DC699515,Kia,Optima,2008,green,138109.88,255910,good,Sigismund Garrow,141 Sycamore Pass
+WAUDK78T59A132100,Audi,A6,2011,green,987090.0,386019,poor,Casey Whitehorn,23 Lotheville Street
+KNAFT4A23D5048056,Nissan,Rogue,2008,black,71996.06,147335,fair,Benoite Reggio,6845 Muir Trail
+WAUDFAFLXFN163688,Toyota,4Runner,2011,red,815736.47,393952,excellent,Giana Bell,9351 Blaine Street
+3VWJX7AJXAM418643,Mitsubishi,Outlander,2009,red,45746.55,486803,good,Lorine Dack,
+WBAUP9C53BV670492,Mitsubishi,Pajero,2003,blue,229393.86,358907,excellent,Delinda Legerwood,92991 Beilfuss Plaza
+1G6AH5R37F0230539,Lincoln,Mark VIII,1996,green,912908.52,301919,good,Rosy Cowx,
+3VW8S7AT6FM683226,Audi,Q7,2007,blue,646762.6,242526,fair,Casper Clell,48 Shoshone Street
+WAULT58E65A248902,Buick,Reatta,1988,red,821125.55,235817,good,Dev Wearn,712 Ryan Trail
+WAUDGAFL2EA568186,Isuzu,Hombre,1998,red,579923.6,136438,good,Anette Leroux,48 Dapin Place
+WBAUL73569V324737,Isuzu,Trooper,1993,red,527391.58,299512,poor,,14508 Brentwood Road
+KMHFG4JG6CA362000,Chevrolet,Silverado 1500,2009,black,575912.25,243950,poor,Frazier Dunster,9605 Helena Crossing
+WAUHF78P16A799797,Cadillac,Escalade ESV,2010,green,107609.43,406500,good,Cybill McRinn,66 Lunder Avenue
+KMHHT6KJ0FU760607,Nissan,Quest,2004,red,714217.88,407109,good,Carolynn Crackett,84741 Blue Bill Park Avenue
+KMHHU6KJ6FU997244,Chevrolet,Astro,2003,white,254749.13,389893,excellent,Hally Hindes,943 Southridge Avenue
+WAUDF78E96A387527,Land Rover,LR2,2012,blue,765826.91,280293,excellent,,5 Susan Way
+1N6AF0KY4EN913633,Lincoln,Continental,1985,green,289402.71,13119,excellent,Nanci Wieprecht,
+WP1AE2A22CL436333,Toyota,Avalon,2000,red,662871.29,53961,poor,Barclay Scragg,5 Prairie Rose Road
+WUAUUAFG9F7794385,Oldsmobile,Ciera,1996,green,190375.72,142868,good,Cart Shawcroft,68 Grim Road
+WBAVM5C59EV747084,Pontiac,Grand Am,1992,blue,712410.2,319118,good,Liva Kender,5 Briar Crest Lane
+3VW4A7AT0CM439892,Pontiac,Gemini,1986,black,313138.3,189894,excellent,Merry Evison,33 Burrows Crossing
+2G4GU5GX7E9803707,BMW,3 Series,2008,green,583427.75,124766,fair,,46 Clyde Gallagher Hill
+1C4NJPBA3FD255194,Scion,xA,2006,black,40456.58,307716,poor,Brooke Danilov,034 Nancy Park
+1FMCU5K37AK960422,Jeep,Liberty,2003,green,143069.24,324173,poor,Carola Smithson,98436 Corscot Point
+1G6DF5E52D0661295,Jaguar,S-Type,2000,white,536407.4,365091,good,Frederico Lewins,
+WAUAVAFA6AN844041,Infiniti,QX,2010,white,640305.87,429538,good,Malissa Brockbank,6986 Barnett Center
+1FAHP2DW2BG160356,Chrysler,Voyager,2003,blue,115116.2,235167,excellent,,7 Green Ridge Court
+WBANE735X7C248222,Jeep,Grand Cherokee,1999,blue,526098.14,201581,excellent,Artur Clackers,3 Sullivan Hill
+JM3ER2A5XC0294116,Dodge,Ram Wagon B150,1994,green,162080.73,151495,fair,Valerie Fay,00 Carberry Way
+5J8TB2H28CA754918,Saab,9-3,2011,white,69418.97,233075,excellent,Phelia Lehrmann,477 Anniversary Terrace
+WA1BY74L37D443559,Toyota,T100,1998,white,53733.76,147318,poor,Fae Dominguez,9 Almo Alley
+4JGDF2EE5EA039941,Land Rover,Range Rover,2000,green,753702.04,480657,fair,Lynnette Brixham,8010 Kedzie Way
+3GYFNCEY6AS172761,Maybach,57,2003,blue,853162.08,259475,good,Annabell Shire,03 Columbus Crossing
+WA1YD64B14N045389,Cadillac,Eldorado,1994,white,288384.36,471643,poor,Dotty Ilyinykh,76511 Dawn Trail
+1FTFW1E82AK929560,Lincoln,Continental,1996,white,521982.31,1772,fair,Carolynn Storm,32 Summerview Alley
+2HNYD184X1H504616,Buick,Skyhawk,1984,white,940491.45,209117,good,Dunn Darycott,08605 Darwin Plaza
+2C3CDXFG3FH502475,Chevrolet,Express,2010,blue,521654.15,385628,poor,Austen Duncklee,9900 Jana Alley
+KMHGH4JH7DU263518,Ford,Freestyle,2005,red,976045.72,340470,excellent,Dulcia Crosser,5 Shoshone Drive
+JM1GJ1T52F1275848,Cadillac,CTS,2008,black,565771.12,98183,good,Jessalyn McIver,9 Haas Point
+SCFFDCBD7AG204241,Oldsmobile,Cutlass Cruiser,1994,white,774713.17,54106,fair,Ode Willmont,93429 Petterle Terrace
+1N6AA0CJ2EN804345,Hyundai,Accent,2003,blue,549276.15,298795,good,,
+KMHTC6AD2EU317458,Mercedes-Benz,E-Class,1996,green,682417.5,247656,excellent,Fawn Gotthard.sf,5793 Brickson Park Avenue
+5UXZW0C56C0694824,Hyundai,Accent,2003,red,214042.16,442703,good,Philipa Nowick,1 Amoth Alley
+JH4KA96512C542544,Jeep,Cherokee,1992,white,979536.78,475726,good,Stearn Cressor,90 Maple Wood Hill
+KNAFX6A85E5909498,Dodge,Journey,2009,black,68745.71,329172,poor,Rupert Smerdon,7982 American Ash Terrace
+JN1BY1AR3EM825571,Lincoln,MKZ,2009,white,291097.84,60023,poor,Horten Taaffe,7253 Algoma Terrace
+1GYUCAEFXAR389460,Infiniti,,2012,red,307411.51,331921,good,Timotheus Maddrah,
+3N1CN7AP4FL803766,BMW,7 Series,2012,white,177598.93,170687,poor,Ruy Beardsworth,39 Caliangt Park
+5TDBY5G15ES743786,Mercedes-Benz,W123,1977,green,3186.12,270748,poor,Darsie Comelini,77506 Kipling Crossing
+2C3CDXCTXFH624980,Ford,Freestar,2004,red,959367.99,129950,fair,Gavra Martinolli,
+JH4KA96661C296078,Saab,9000,1986,white,256602.04,261219,poor,Faustine Standbrook,1370 Anniversary Park
+3GYFNDE31CS911502,Ram,1500,2012,white,419716.46,76654,fair,Dalton Tabner,2979 High Crossing Court
+5N1AT2MK1FC305058,Buick,Park Avenue,1998,green,263337.52,439346,excellent,Delainey Edgeller,969 Barby Circle
+JTDZN3EUXEJ622015,GMC,Yukon XL 1500,2008,red,667184.78,33087,poor,Tymothy Flancinbaum,7 Maywood Trail
+2HKRM3H33CH869369,Suzuki,Grand Vitara,2007,green,103874.46,323118,good,Ripley Barfield,82117 Del Sol Center
+3D7TT2CT0AG918355,Subaru,Impreza,2001,green,204388.85,86036,excellent,,4106 Meadow Ridge Crossing
+2C4RDGBG9ER255256,Toyota,Yaris,2009,white,923998.37,494295,good,Liana Arpur,51655 Oak Valley Place
+3C4PDCBB8ET318672,Jeep,Liberty,2007,green,953023.12,50411,good,Hieronymus Ambrus,06 Anniversary Parkway
+1G6DK1E31C0017644,GMC,Yukon XL 1500,2009,green,23777.57,387546,poor,Anny Vasilic,8 Nelson Way
+3N1BC1AP0AL542966,Chevrolet,Suburban,2011,blue,765991.78,164886,poor,Jereme Shambroke,417 Service Parkway
+WA1VGAFPXEA113008,MINI,Cooper,2004,red,997371.73,249557,excellent,Brice Falck,3 Tennyson Avenue
+WBAFU9C50CC538532,Dodge,,2003,red,388915.52,353068,fair,Linea Couroy,64 Pond Crossing
+WAUBGAFB4AN911629,GMC,Rally Wagon 3500,1994,green,950127.46,216401,fair,Gage Dabney,63894 Toban Crossing
+3D73Y4HL0BG700715,Mercedes-Benz,CL-Class,2012,blue,788145.84,162641,poor,Ransom Woolen,9746 Brickson Park Plaza
+WDDGF5EB4AF155871,Mercury,Cougar,1994,black,832087.87,452765,fair,Annamaria Penhale,626 Claremont Parkway
+2HNYB1H29AH654074,Acura,MDX,2003,red,349255.1,344123,excellent,Alyssa Pattesall,26 Lillian Point
+JN1CV6EKXCM998881,Toyota,Tundra,2001,white,461956.84,31040,poor,Obidiah Dahmel,0 Corben Circle
+1GYS3JEF0DR458880,Honda,CR-X,1988,black,334603.12,232706,fair,Gaspar Rawcliffe,21841 Myrtle Avenue
+WAUJFAFH9AN221393,Ford,E-350 Super Duty,2006,white,394853.82,409622,excellent,Georgeanne Echalier,45 Hermina Court
+1FTEX1CW3AK228889,Ford,Flex,2012,red,107596.57,47243,poor,Layney Gaymer,17373 Autumn Leaf Road
+3N1BC1CP2CK940251,Chevrolet,Venture,2003,green,954389.78,430549,poor,,502 Armistice Hill
+WAUKH78E98A696564,Chevrolet,Traverse,2011,white,869831.28,15752,fair,Isak Pentin,1 Paget Lane
+KMHTC6ADXEU798222,Dodge,Challenger,2011,black,751322.21,215654,poor,Weylin Fagence,1899 Talisman Court
+2FMGK5D81FB058303,Lincoln,MKZ,2007,red,966169.73,1192,fair,Donnamarie Shave,0299 Wayridge Circle
+2FMDK3AK5BB581471,Mercedes-Benz,W201,1990,blue,785462.27,773,excellent,Faustina Crannach,484 Hanover Pass
+1GYS3GEF9BR769532,Toyota,Camry Solara,2006,blue,633446.86,392795,good,Tye Siddons,05 New Castle Junction
+WAUEF78E27A812270,Chevrolet,Corvette,1993,blue,882858.46,117817,fair,Roxine Urling,6852 Troy Lane
+WP0CB2A84CS502655,Ford,E350,2011,blue,26473.25,126932,good,Othilie Rainbird,8 Porter Place
+WBAPM5C53BF598153,Plymouth,Breeze,1996,black,99606.42,336959,good,Calli Huske,526 Amoth Terrace
+WAUAF78E85A717725,GMC,Yukon XL 2500,2011,blue,195615.96,467869,poor,Mavis Roussel,3 Sauthoff Lane
+JTHBK1EG9C2059408,Jeep,Wrangler,1994,black,197119.19,81403,excellent,Dexter Escudier,19 Emmet Road
+1LNHL9DKXDG384534,Chevrolet,Suburban,2009,red,744111.55,466820,poor,Lucian Petersen,862 Sage Center
+WP0CA2A8XEK265966,Audi,A7,2012,red,658640.71,389800,fair,Isadora Rathbourne,4 Dovetail Circle
+1GD021EG4FZ177365,Audi,A4,2001,white,280925.61,394220,fair,Janelle Swafford,1311 Macpherson Point
+1FMCU4K34BK655133,Volkswagen,GTI,2006,white,560459.49,250890,fair,Kath Cadalleder,97 Becker Alley
+2C3CDXEJ1FH514797,Dodge,Ram Van B350,1993,blue,71972.81,309385,poor,Mackenzie Americi,323 Fairfield Street
+JTDKN3DU2A0059125,Ford,F150,2003,red,771035.52,412352,fair,Andrei Bason,91 Helena Road
+1G6KH5EY1AU306800,GMC,Suburban 1500,1994,red,774896.28,61345,poor,Yardley Brewood,425 Mcguire Drive
+5UXXW5C50F0260911,Jeep,Liberty,2002,green,830299.57,489193,excellent,Lance Jiroutka,7721 Waywood Way
+1FTNF2B53AE776908,Toyota,Celica,1993,red,895984.07,386193,poor,Joelynn Ralling,0 Lien Center
+WP0AB2A98FS995633,Audi,A8,2007,green,560722.09,327735,fair,Stefan Goadby,52683 Twin Pines Circle
+2FMDK3GC8AB738554,BMW,M5,2009,white,169314.69,116286,good,,83622 Ridgeway Drive
+1D7RW3BK2BS687114,Volkswagen,Jetta,1992,green,22739.53,293836,poor,Annissa Ruffey,1677 Lyons Parkway
+1N4CL2AP9BC729438,Dodge,Viper RT/10,1993,blue,784378.38,239867,poor,Dianemarie Lodder,22042 Mayer Crossing
+3VWML7AJ5DM761499,Hummer,H3,2009,white,167310.96,222790,poor,Marys Falloon,528 Meadow Vale Junction
+1VWAH7A36DC493814,Ford,F-Series,2001,blue,201304.51,397930,poor,Zara Brampton,363 Swallow Junction
+SALWR2VF1FA920434,Chevrolet,Silverado 2500,2006,blue,465453.96,58011,excellent,Arnuad Groveham,09404 Forster Road
+19UUA66297A350632,Plymouth,Breeze,1999,white,271047.14,98706,excellent,Hollie Zywicki,97740 Raven Street
+JTEBW3EH5A2348997,Daewoo,Leganza,2000,white,16204.54,197819,poor,Gareth Goodred,535 Leroy Plaza
+WBAFU7C52BD415165,Toyota,Camry Solara,2006,white,428868.16,358065,poor,Bennett Sammut,5474 Becker Trail
+1G4CW54K514079904,Honda,Prelude,1986,black,940600.03,418173,excellent,Barrett Mariolle,24 Portage Circle
+5TDBKRFH8ES721398,Mitsubishi,Pajero,2002,black,964976.13,56135,fair,Ame Gowler,
+JN1AZ4EH4CM127575,Saturn,VUE,2005,green,399732.88,442173,poor,Millie Proswell,55530 Maple Avenue
+SCBGT3ZA3FC596217,Ford,Explorer,2006,green,951184.42,111075,good,Tamera Dight,7 Elka Court
+5N1AA0ND2FN455680,Toyota,Corolla,1999,red,49183.85,288031,good,Waiter Palphramand,5645 Myrtle Point
+3N1BC1AP6BL254046,Lexus,ES,1990,red,830190.09,398015,excellent,Carmita Havard,8002 Canary Avenue
+WAUAF98E16A118727,Honda,Civic Si,2005,blue,14298.65,342974,excellent,Arabella Munehay,272 Bayside Way
+WVGEF9BP3ED596381,Cadillac,CTS-V,2009,green,851255.14,252896,good,Lyndsay Hegge,8 Milwaukee Trail
+WP0CB2A86CS503791,Dodge,Viper,1993,red,257996.16,495069,poor,Margot Abramov,4284 Homewood Terrace
+5UXFG43599L358454,Volvo,XC70,2008,white,113253.92,47744,good,Annelise Santhouse,896 Steensland Way
+WUAUUAFG8EN728128,Acura,TSX,2004,black,920527.26,185,excellent,Edyth Branston,32 Dapin Court
+2T1BU4EE0DC972301,Volkswagen,Routan,2009,blue,873713.94,182661,poor,Tani Jendrach,73512 Carpenter Lane
+2C3CDXEJ6CH318172,Lexus,LX,1996,blue,671486.21,476269,poor,Giana Piet,3 Gerald Way
+WUAUUAFG6EN725454,Ford,Escort,1988,black,531660.05,77707,fair,Zolly Gotch,94777 Spohn Court
+JTDZN3EU8EJ213771,Acura,,1994,black,348487.47,323939,good,Judd Marskell,7608 Graceland Road
+19XFA1E52AE011110,Mercedes-Benz,CL-Class,1998,red,987827.56,187369,poor,Fancie Belmont,
+WA1VMAFP5FA241800,Acura,MDX,2008,blue,252214.56,344247,fair,Mady Buddle,51 Esch Parkway
+1D7RV1GP3AS960846,Saab,900,1991,black,535076.72,256183,excellent,Delmor Drejer,7 Nancy Road
+1LNHL9DK9FG310850,Mazda,B-Series,1993,white,716887.54,366962,excellent,Faulkner Clearley,3 Emmet Crossing
+WAUEFAFL9CA215805,Mercury,Capri,1992,white,321021.65,394436,poor,Danya Sammars,7 Messerschmidt Place
+YV1902AH1D1700238,Saturn,Ion,2005,blue,562762.71,115841,poor,Sammy Thurlborn,6 Reindahl Avenue
+5UXZV4C51DL712558,Dodge,Challenger,2008,green,978916.22,379593,fair,Shirley Larkworthy,2 Brown Circle
+1GKS2GEJ4BR492466,Infiniti,EX,2009,black,508546.16,58215,fair,Devy Rush,3 Northridge Park
+1N6AF0KX9FN881884,Suzuki,Grand Vitara,2006,white,409774.02,13264,fair,Therese Darton,4 Towne Alley
+WBANF73506C269267,Mercedes-Benz,CLK-Class,2004,red,834341.33,8523,good,Cory Henaughan,3 Esker Center
+5FRYD3H86FB900350,Toyota,Camry,2004,red,141705.25,459822,fair,Myles Boylund,63405 Menomonie Alley
+1D7CW2BK2AS887764,Kia,Rio,2007,green,663997.77,281722,excellent,Ruben Pamment,
+WAUAT48H74K548825,Porsche,928,1994,green,760060.12,423542,excellent,Erinn Grigorushkin,008 Forster Place
+1G6DL8E34D0508300,Honda,S2000,2002,white,752253.59,43901,excellent,Daisi Farans,95473 7th Plaza
+5FNYF3H25BB730290,Chevrolet,Silverado,2001,green,921430.69,406448,good,Elfrieda Lawlan,
+WBAYM1C58FD998322,Rolls-Royce,Phantom,2010,white,974417.59,450459,good,Jodie Bootes,49994 Aberg Parkway
+3GYFNBEYXAS618601,Ford,F250,1996,white,887616.39,493645,excellent,Lindie Taillard,2063 Hoffman Lane
+WBAVT13586K690973,Mitsubishi,Montero,2006,blue,624186.88,51876,excellent,Kally Slowcock,7529 3rd Drive
+WA1CV74L69D407624,Ford,Escort,1999,black,416855.87,404972,excellent,Phil Marchetti,922 Randy Terrace
+WDDGF4HB6EG854456,Chrysler,LHS,1999,blue,108888.02,112906,excellent,Case Farquhar,2614 Fordem Drive
+5GAKRCED5BJ709405,Buick,Somerset,1987,red,545360.32,28251,poor,Trace Million,4 Bartillon Street
+JH4CL96848C368695,Honda,Civic,2003,blue,299901.98,305751,good,Jeth Gorry,675 Elka Junction
+1C3BC8EG2BN544045,Acura,CL,2003,black,710414.63,396156,fair,Kathie McNea,
+2T2BK1BA1EC301271,Cadillac,Escalade ESV,2010,blue,656458.28,448755,poor,Veronika Pudan,02068 Russell Court
+1G6KE54Y44U117346,Dodge,Caravan,1994,black,324285.53,319837,fair,Else Seabon,8214 Petterle Street
+WA1YD64BX2N672539,Aston Martin,,2010,white,716479.18,126535,poor,Melodie De Bruijn,2 Clyde Gallagher Lane
+3GYFNGEYXBS447637,Acura,Legend,1992,red,650985.96,421905,good,Geoffry Hollindale,
+3VWPG3AG0AM870026,Chevrolet,Silverado,2007,red,164123.84,217237,poor,Cecilla Kennett,77856 Carberry Park
+1GYS3AKJ1FR689461,Volkswagen,Jetta,2007,red,327696.4,129513,excellent,Phillie Lipman,620 Fairview Street
+5TFAW5F14EX777344,Pontiac,Sunfire,2004,blue,479342.99,207824,poor,Binnie Crosser,311 Heath Court
+3VWJP7ATXCM080455,Mazda,MX-5,1991,red,561583.69,445089,fair,Ddene Clewlowe,84173 South Parkway
+WAUKG68E15A245184,Mercedes-Benz,SL-Class,1998,red,345115.27,362305,poor,Jourdan Cinelli,8970 Bunker Hill Road
+SALVP2BG3FH249192,Acura,RDX,2012,blue,554958.73,334944,poor,Irwinn Rosengren,733 Lake View Court
+WDDLJ6HB2FA692550,Mercedes-Benz,M-Class,2011,blue,340253.08,241317,excellent,Reider McAnalley,36273 Bluestem Circle
+SAJWA1CZ8E8227860,Hyundai,Elantra,2004,green,978598.32,97071,excellent,Gert Gartside,
+3GYVKLEF3AG859735,Volvo,S40,2007,green,857923.57,402334,fair,Teirtza Julian,16746 Grasskamp Circle
+4T1BK1EB7EU175134,Mitsubishi,Pajero,2001,black,637527.78,108453,good,Lenard Stolworthy,06218 Continental Circle
+3D7JV1EP0BG058468,Mitsubishi,Diamante,2000,black,47225.14,92623,good,Emlyn Klug,949 Moland Court
+JN8AF5MR5BT196368,Dodge,Intrepid,1995,blue,619344.38,192511,fair,Blaine Lavall,20568 Merrick Lane
+3VW4S7AT2EM575683,Chevrolet,Silverado 2500,2010,blue,294251.6,118625,poor,Byram Yurikov,18 Tomscot Alley
+5N1AA0NC2BN730983,Mercedes-Benz,W201,1990,white,620103.32,212717,excellent,Heddi Brogini,7726 Waubesa Terrace
+1D7CE3GKXAS955892,Mazda,RX-7,1987,black,821379.39,406142,fair,Addie Surman-Wells,
+SCBEC9ZA0FC171645,Subaru,,1995,blue,155160.31,75312,good,Trisha Tubby,2734 Union Lane
+WAUVFAFH9CN645791,GMC,Yukon,2008,black,68564.21,283230,fair,Panchito Quigg,2 Magdeline Terrace
+19XFB2F52CE966736,Chevrolet,Express 3500,2007,red,379166.51,401952,good,Alys Thoday,5914 Old Gate Pass
+KNAFU5A22D5831209,Mazda,Protege,2001,green,135211.75,329527,poor,Melesa Rosensaft,
+5TDDCRFH6ES407724,Ford,Focus,2004,white,817273.92,409669,good,Nelson Pagden,7 Jackson Lane
+JN1CV6EKXBM411495,Dodge,Ram Van 3500,1998,black,136190.3,371266,fair,Faulkner Cope,11 East Place
+1GYFK438X8R497833,Audi,Q5,2011,blue,589575.02,388726,fair,Cointon Anscombe,63 5th Pass
+JH4DC538X5S806008,Eagle,Vision,1996,white,932638.14,203690,good,Benny Langeley,997 Mccormick Way
+19XFA1E80AE185686,Mazda,626,1986,red,945527.64,296994,fair,,3640 Oakridge Place
+WA1EY94L27D881174,Ford,Explorer,1991,red,268679.43,190004,poor,Ario Foord,52607 Hudson Circle
+WAUCFAFR4EA612286,Ford,Explorer Sport Trac,2005,red,746136.37,242572,excellent,Bev Fishburn,5 Jackson Avenue
+1D7RE5GK7BS883721,Subaru,B9 Tribeca,2007,blue,929351.15,366754,good,Rollin Yoxen,71311 Acker Junction
+WA1UFAFL4DA029969,Ford,E-350 Super Duty,2006,red,269198.2,395166,poor,Kaleb Barratt,3331 Westridge Road
+WAUCVAFR1CA469734,Ford,Explorer Sport Trac,2008,black,528219.9,393317,fair,Sela Dimic,4239 John Wall Court
+KL4CJCSB1FB665037,Saturn,L-Series,2000,red,112842.77,486588,excellent,Marrissa Shearme,40233 Macpherson Avenue
+JH4DC54834S415375,Audi,A8,2008,blue,387402.54,274888,fair,Cristy Durnford,
+KM8NU4CC5AU847481,Kia,Spectra,2006,red,158721.85,218743,fair,Ruby Daulton,628 Golf Course Drive
+WAULFAFR5CA911184,Pontiac,Grand Prix,1978,blue,582658.54,429383,excellent,Moises Worssam,64835 Quincy Parkway
+SCFPDCGP5EG790774,Mercury,Capri,1991,black,35924.81,264921,excellent,Robbie Randerson,7510 Forster Circle
+1FTWW3DY0AE577493,Lincoln,Town Car,1989,white,489884.18,63673,fair,Clem Belton,88 Park Meadow Park
+JM1NC2PF5F0033779,Oldsmobile,Achieva,1994,red,329996.71,291960,poor,Berenice Hamshaw,77 Muir Drive
+1N6AA0ED7FN950264,Mercedes-Benz,S-Class,2007,red,696600.14,182735,good,Lennard Hemshall,7 Melrose Plaza
+5GAER23758J897713,Volkswagen,Phaeton,2006,black,825104.48,182392,fair,Val Mathet,42664 Comanche Center
+KNAFZ6A33F5074047,Chevrolet,Corvette,1962,blue,656943.41,116785,fair,Barnabe Rolinson,
+WAUDF78E75A007275,BMW,5 Series,2011,green,604911.41,309087,fair,Leilah Deshon,11114 Ohio Park
+5J6TF1H38FL076714,Chevrolet,Monte Carlo,1995,blue,616424.55,248000,fair,Steffie Vater,9785 Northview Center
+WBALW3C55FC102550,Land Rover,Range Rover Sport,2007,blue,377252.92,321131,poor,,
+2T1KU4EE1DC299356,Ferrari,599 GTB Fiorano,2007,green,427152.73,279372,fair,Jeromy Hruska,
+WBAFU7C56BD785602,Mitsubishi,Diamante,1998,white,557405.03,435089,excellent,Shell Writtle,835 Pond Street
+WAUSH78E56A093625,Toyota,Truck Xtracab SR5,1989,black,541783.0,250813,good,Adella Gatch,9 Killdeer Hill
+2C3CCAGG1CH401798,Cadillac,DTS,2011,blue,827896.93,187485,excellent,Emmy Wynett,4 Nobel Place
+KMHHT6KD5CU578973,Chevrolet,Silverado 3500HD,2006,black,669611.94,162450,excellent,Frasier Talkington,239 Kipling Way
+WBAUC9C56DV517975,GMC,Yukon,2012,red,343206.84,394163,good,,735 Fuller Pass
+WAUD2AFD5EN749847,Mercedes-Benz,CLK-Class,2009,white,134831.36,138981,excellent,Charisse Jeffrey,02 Judy Place
+JH4KB16618C881434,GMC,Savana,2010,black,761887.17,353632,fair,,8 Ilene Crossing
+WBAKG1C53CJ420784,Volkswagen,Passat,1993,black,184420.94,136852,excellent,Dunc Joubert,8 Sunnyside Road
+WVGEF9BP3FD922083,Audi,A6,1999,red,343159.77,330611,fair,Prince Gedge,79 Colorado Parkway
+JM1NC2PFXF0861066,Isuzu,i-280,2006,white,822362.81,472317,good,Dewitt Paolazzi,27263 Maple Wood Place
+WBADT33491G951893,Chevrolet,Corvette,1995,black,460081.15,183324,poor,Pat Tirone,412 Glacier Hill Way
+JN1BJ0HR8FM651485,Mazda,CX-9,2010,blue,902988.51,321713,excellent,Latashia Athey,82036 Iowa Junction
+1G6DK8ED3B0977810,Jeep,Commander,2010,blue,211909.02,205886,fair,,02469 Northport Avenue
+NM0KS6BN2AT893686,Volvo,XC70,2004,green,37286.06,433509,excellent,Westley Keddy,6623 Crescent Oaks Terrace
+TRUTC28NX21679388,Hummer,H3T,2009,red,770415.78,254463,fair,Rodrigo Grayston,88021 Lyons Crossing
+WDDNG7BB2BA661833,Chrysler,Prowler,2001,green,43896.45,432840,excellent,Ollie Gaythorpe,3 Northland Pass
+1FTSW2A54AE071197,Acura,RL,2002,red,713416.65,494677,excellent,Conan Blaiklock,335 Katie Plaza
+WP0CA2A88EK044088,Volvo,XC70,2012,red,982382.34,199002,fair,Chris Hulett,6797 Holmberg Lane
+WBANN73557B851472,Acura,CL,2003,white,631894.38,12,poor,Terrell Linn,42455 Stone Corner Point
+1G6YV36A285671824,Chevrolet,Tahoe,2004,white,321317.5,7634,good,Darn Pearse,8054 Tennyson Hill
+3D73M4CL3AG674810,Mazda,626,1992,blue,436313.29,460124,poor,Eleni Chastanet,
+1N4CL2AP7BC153011,Chevrolet,Sportvan G30,1994,red,875946.92,191969,fair,Cristy Wevell,02503 Wayridge Pass
+2HNYD284X7H847182,BMW,5 Series,2003,black,167161.16,468472,excellent,Marijo Meneely,03037 Washington Terrace
+1G6AS5S32E0834557,GMC,Yukon XL 2500,2009,black,679556.7,423678,poor,Mallissa Howels,949 Rigney Street
+WAUWFAFH1DN295644,Mazda,929,1990,white,273428.02,81366,good,Witty Suggey,1 West Pass
+3N1AB6AP4BL830891,Toyota,Sequoia,2008,blue,351132.42,479372,excellent,Kathye Danilishin,52705 Bobwhite Road
+WBAPK53569A686918,Ford,Transit Connect,2013,blue,769612.43,353199,good,Gizela Mc Caughan,2 Grover Circle
+WDBWK5EA1BF105535,BMW,7 Series,2002,white,772280.75,170171,poor,Alistair Petrowsky,48516 Schurz Pass
+WAUNF68P66A389686,Subaru,Outback,2008,black,247977.26,63920,fair,Rick Goom,2649 International Hill
+WUAAU34289N111310,Kia,Spectra5,2006,black,861399.28,350902,poor,Amelina Glasscoo,
+4A31K2DF3BE766512,Subaru,Outback,2012,red,574542.12,471117,excellent,Urban Giacopelo,8 Loftsgordon Court
+WBADS33401G003918,Subaru,Legacy,1999,green,733494.01,73344,poor,Melva Partlett,47 Surrey Avenue
+WAUVT58E03A443156,Mitsubishi,Challenger,1998,black,218460.23,181947,excellent,Kylila Kramer,310 Schurz Crossing
+2G4WE567351045728,Aston Martin,Vantage,2009,black,672712.42,73500,excellent,Ezechiel Aizikovitz,3 Declaration Junction
+WBAVB13596K754053,Bugatti,Veyron,2009,white,283862.0,431092,good,Thorsten Preston,38 Upham Road
+WBABN33453P382674,Dodge,Grand Caravan,2004,white,852542.04,457112,poor,Celie Huxter,5 Spohn Avenue
+JN1CV6EK8AM736757,Buick,,2006,white,450824.89,365397,good,Alisun ffrench Beytagh,2409 Hazelcrest Terrace
+1G6AX5S37E0317563,Suzuki,Swift,2001,green,751644.85,493598,good,Vere Warre,29 Havey Center
+WBAUT9C51BA734970,Eagle,Vision,1994,white,466970.87,404242,fair,,288 Sunbrook Parkway
+3D7LP2ET5AG789028,Scion,tC,2013,green,548466.45,273996,good,Felicdad Panons,476 Kensington Plaza
+1J4PN2GK8BW791326,Chrysler,Imperial,1992,red,839936.45,271796,good,Koren Nussen,
+JTDKDTB32E1237385,Plymouth,Horizon,1978,black,786650.43,370653,fair,Roslyn Tommeo,479 Talmadge Point
+1G6DC8EG3A0812720,Oldsmobile,Aurora,1998,red,572915.52,390767,poor,Redd Troker,3 Debra Hill
+JA32U1FU6AU142312,Dodge,Ram,2011,blue,543223.33,164120,poor,Marcie Fedder,120 Dryden Street
+JH4DC53842C091250,Mitsubishi,Lancer,2005,black,7169.61,319366,fair,Ardisj Greep,05 Mccormick Circle
+WBSDX9C51BE833345,Jaguar,XJ Series,1997,blue,159992.62,266125,good,Claude Ollett,8 Westerfield Trail
+SCBGH3ZA1FC502501,GMC,Sierra 3500,2007,white,855818.33,193720,excellent,Sky Hague,9 Onsgard Terrace
+JM3TB2BV6E0156246,Ferrari,612 Scaglietti,2006,green,580017.63,426504,excellent,Domeniga Dominichelli,5621 Sundown Terrace
+3LNHL2GC3AR408902,Maserati,Quattroporte,2011,green,767576.06,415921,good,Fitz Axelby,67058 Fallview Road
+WBAXH5C52CC778053,Volkswagen,Type 2,1987,blue,264046.95,81880,excellent,Dewey Holsey,99 Hazelcrest Way
+SALVP2BG7EH508698,Ford,Mustang,1970,green,629178.75,122708,good,Nissie Bampkin,3791 American Ash Avenue
+JN1CV6EK8DM307798,Morgan,Aero 8,2006,white,299143.45,330784,good,,
+19XFB2F55FE067566,Ford,F250,2008,blue,271056.4,148728,good,Damian Shawel,9 Jay Junction
+WP1AA2A26DL435960,Mitsubishi,Mirage,1998,green,155042.98,17062,good,Dona Caudelier,5 Huxley Park
+WA1KK78R69A134348,Volkswagen,Touareg,2012,white,626195.33,102706,poor,Janos Radmer,4577 Dwight Crossing
+5TFBM5F14AX938490,Eagle,Talon,1998,blue,641875.85,260347,fair,Dore Anderbrugge,32 Hayes Way
+YV4852CT3A1407387,Saturn,S-Series,2000,red,492001.99,376901,good,Carol Plumbe,26928 Daystar Park
+1GD21ZCG2BZ893981,Geo,Prizm,1997,green,682170.6,293528,fair,Sydelle Statersfield,2134 Basil Crossing
+KL4CJASB4DB179694,Saab,9000,1993,red,319681.68,63953,excellent,Neale Akrigg,723 Coleman Street
+1FMJU1J50AE757289,Suzuki,Daewoo Magnus,2004,green,523255.67,115948,poor,Katlin Kyncl,66 Nevada Place
+3N1AB7AP9FL795809,Chevrolet,Express 3500,1996,blue,521605.28,246368,excellent,Denice Schulter,655 Blaine Parkway
+3GYFNAE32ES880892,Ford,Tempo,1988,black,631792.07,32535,good,Eduard Gerok,45 Jenna Avenue
+1FTMF1CW7AK196530,Infiniti,FX,2004,blue,996340.59,55052,poor,Bernadina Whelpton,68 Carberry Place
+WBAVB735X7K397146,Buick,Regal,1985,black,534430.28,85529,poor,Sidonnie Guidelli,98 Sutherland Parkway
+KNDPB3A29B7443042,Chevrolet,Tahoe,2009,black,662016.52,1920,poor,Courtney Severwright,91132 Manitowish Terrace
+SCBGH3ZA6EC147260,Toyota,Highlander,2006,white,621205.86,53468,fair,,82748 Forest Dale Avenue
+WBSBL93404J406856,Lotus,Esprit,1996,green,868817.99,160604,good,Shannon Fleet,4645 Claremont Alley
+5FRYD4H40EB291175,BMW,325,2006,green,753212.28,205276,excellent,Dinah L'argent,6303 Mcbride Alley
+1G4PS5SK8C4020364,Ford,Windstar,2002,white,476960.59,282599,good,Merilyn Syddie,05091 Goodland Avenue
+1D4PT2GK5BW556400,Kia,Soul,2010,red,863869.55,216442,excellent,Wandie Corish,8252 Miller Drive
+WAUVT68E12A358332,Subaru,Legacy,1994,blue,701224.11,278236,good,Gusella Clackson,474 Forest Dale Trail
+3FAHP0GA3AR105135,Dodge,Avenger,2000,blue,191075.78,98288,excellent,Tibold Brockie,87 Sycamore Court
+WBALL5C54EJ581896,GMC,Sonoma,1995,black,844758.07,245144,fair,Paulie Tudor,2 Stang Alley
+4T1BK1EB2EU519212,Buick,Park Avenue,2003,green,866990.75,243716,fair,Cosme Vitet,967 Eagle Crest Place
+1FTMF1EW9AK089220,Dodge,Nitro,2009,white,403351.02,422466,fair,Stirling Wesson,98412 South Way
+WAUDH98E86A694614,Jeep,Wrangler,1992,black,573166.61,154375,excellent,Horton Marriott,
+1FTWW3B57AE982145,Ferrari,612 Scaglietti,2008,green,100336.33,87018,excellent,Farica Brito,
+1G6DV1EP2C0651572,Land Rover,Freelander,2005,black,349024.31,149569,good,Laetitia Tour,618 Evergreen Road
+5FRYD3H87FB242408,Cadillac,SRX,2007,black,571953.61,497908,excellent,Pinchas Courteney,46817 Mariners Cove Alley
+3N1AB6AP5CL938521,Land Rover,Discovery,1997,white,280341.27,108354,excellent,,89 Reindahl Road
+4JGBB2FB5AA768409,Ford,E250,2010,black,6765.44,24215,excellent,Boigie Robillart,69235 Jenifer Pass
+3VWC17AU1FM095644,Alfa Romeo,164,1993,red,275090.12,376344,fair,Corabella Housen,13 Dixon Park
+1GYEC63N66R869255,GMC,Sierra,2007,red,960569.77,202769,good,Guthrey Itter,309 Veith Crossing
+WBAKF9C55DE792722,Nissan,Murano,2007,red,161753.5,178989,excellent,Evelin Huson,4 Mesta Lane
+WBA3A9C53FF176856,Honda,CR-Z,2012,white,668678.08,81821,excellent,Myer Stigger,86 Elka Drive
+JN8AZ2KR3CT298049,Aston Martin,V8 Vantage,2010,black,527504.74,485077,excellent,Mark Saturley,4652 Mitchell Junction
+WA1LMAFE3CD992832,Chevrolet,Caprice,1994,white,591585.41,335891,fair,Lowe McSperron,77357 Kings Parkway
+WBABV134X6J873558,Mercedes-Benz,W201,1988,blue,467061.71,413478,fair,Danit Buddles,335 American Way
+5GAKRDED0CJ015499,Ford,Fusion,2007,blue,484593.32,431829,good,Montague Tolley,84587 Sauthoff Trail
+2C4RDGEG9FR347805,Pontiac,Sunbird,1983,green,485931.15,409628,poor,Ward Carme,79666 Hayes Avenue
+SCBDR33W87C920575,Volvo,XC60,2009,red,44254.92,362743,fair,Reggie Edinburgh,7 Sutteridge Terrace
+3MZBM1L72EM890613,Pontiac,Montana,2003,blue,920879.47,404727,good,Violante Shiril,8 Ridge Oak Avenue
+1FMJU1J52AE912425,Lotus,Esprit,1999,blue,856171.19,408084,excellent,Janie Coady,
+5FPYK1F47DB477939,Land Rover,Range Rover,2005,red,361297.89,483877,excellent,Willy Royce,9307 Dawn Pass
+YV4952BZXE1601673,Oldsmobile,Ciera,1992,black,212526.48,470129,fair,Robin Marriner,13 Cherokee Terrace
+1GYUKKEF6AR410670,Lexus,RX,2002,black,880944.6,335557,poor,Liza Simcock,657 Sugar Lane
+1G6KE54Y55U641400,Mercedes-Benz,S-Class,1989,black,849578.33,370010,good,Rowney Lorans,0 Iowa Way
+2HNYD18995H452509,Maserati,Coupe,2006,red,574914.85,466969,excellent,Constanta Gulk,5000 Dottie Alley
+1FTSW2A57AE216331,Buick,LaCrosse,2009,black,640289.05,132736,fair,Natasha Bowick,0322 Straubel Parkway
+WP0CA2A82AS798923,Chrysler,Cirrus,1995,blue,929283.8,376859,good,Sarina Schollar,7552 Garrison Way
+KNAFU5A26D5310848,Volkswagen,Fox,1991,red,816161.13,43841,poor,Bartolemo Curtain,63 Sunfield Avenue
+WBABS53423E613305,Mercury,Tracer,1994,blue,982726.24,300731,excellent,Pren Olle,09090 Bobwhite Park
+SAJWA4DC8CM375815,Mercedes-Benz,500SEC,1993,green,414850.64,452839,fair,Aylmer Rule,096 Stephen Hill
+3C3CFFAR6FT614935,Bugatti,Veyron,2009,green,371445.86,393831,excellent,Annora Filippello,41 Autumn Leaf Drive
+WAURVAFA9AN129225,Mercedes-Benz,E-Class,2008,red,542228.52,99635,excellent,Melisenda Coltherd,739 Dottie Trail
+1C4AJWAG5FL982017,Dodge,Stratus,2002,red,250140.33,217375,excellent,Dom de Chastelain,113 Norway Maple Junction
+3C3CFFHH0FT760146,Mercury,Grand Marquis,1997,green,74777.37,294097,excellent,Arv MacKnockiter,
+1D7RB1GP3BS030584,Mazda,929,1991,red,958509.35,171412,good,Johann Newick,62937 Norway Maple Point
+WBA3V5C52F5322165,Volvo,V70,2008,black,771567.16,345167,excellent,Vinny Skipsea,96821 Chinook Drive
+WAUVC68E23A736370,Audi,S5,2008,black,220794.35,121759,fair,Merrill Janauschek,38 Aberg Court
+1GKS1GEJ7CR778767,Jaguar,XK,2010,blue,260351.99,278282,good,Aleta Leyban,037 Londonderry Plaza
+WBALZ5C52CC486432,Buick,LeSabre,1991,blue,151720.37,375732,poor,Skip Korlat,31216 Kipling Lane
+3LNHL2GC3AR202091,Lamborghini,Countach,1986,blue,626628.73,373471,excellent,Danni O' Faherty,93107 Butterfield Park
+WUALNAFG9EN670846,Chevrolet,Corvette,2008,red,285142.4,56124,poor,Gaylene Forsbey,7 Autumn Leaf Pass
+ZFBCFADH0FZ462549,Ford,Club Wagon,1996,white,927838.94,380458,excellent,Annamaria Klimuk,24576 Hollow Ridge Court
+3VW4A7AT4DM926322,Dodge,Spirit,1992,red,386073.94,99930,poor,,
+1G6AP5SX2F0960195,Toyota,,2011,blue,353383.73,469075,fair,Cordi Cribbin,833 Twin Pines Hill
+1C6RD6LP7CS564137,Nissan,Cube,2010,blue,29289.5,337531,poor,Allistir Deakes,
+JM1NC2EF9A0975975,Honda,Element,2005,green,895417.41,262596,excellent,Willie Sherwyn,576 Dayton Alley
+1GYUKDEF4AR644009,Pontiac,GTO,1969,white,816817.0,24000,fair,Christy Chasson,64623 Springview Place
+YV1902MMXF1775368,Toyota,Venza,2012,red,895469.04,397421,good,Lauri Goult,
+WAUFFAFL5DN466240,Hyundai,Excel,1992,blue,41447.08,275999,fair,Buck Handasyde,8725 Center Point
+WBAEK73494B178665,Mercury,Mariner,2011,red,65399.0,465417,excellent,Kirsti Whiting,98647 High Crossing Pass
+WAUWFAFR0DA275868,Saab,900,1991,red,355677.01,325823,poor,Ramsay Heather,5 Messerschmidt Pass
+JTHBF1D21F5724783,Ford,Mustang,1974,black,412423.98,270233,fair,,
+JH4CL959X6C892876,GMC,Savana Cargo Van,2006,green,252236.59,476198,good,,1 Sugar Alley
+WAUDFBFC1CN746412,Infiniti,I,2001,black,20061.51,301972,excellent,Romonda Ashness,4420 Buena Vista Center
+WAUMR44E97N743531,Toyota,MR2,2001,green,483262.62,91917,good,Lyndy Habershaw,2912 Eagan Road
+KMHTC6AD6CU246214,Scion,tC,2013,black,179387.47,348912,excellent,Netti Gotling,55764 Delladonna Trail
+WBA3R1C54FK242347,GMC,Sierra 3500,2012,green,944029.25,344714,fair,Roxanna Whittington,77103 Darwin Street
+1FMJK1G52DE285372,Land Rover,Range Rover,2003,blue,937212.36,228447,good,Ezri Dawtrey,4904 Crest Line Point
+JTHDU1EF1C5122218,GMC,Vandura 2500,1994,white,830140.54,136108,excellent,Marlene Kybird,029 Sherman Street
+3GYFNBEY3AS243876,Isuzu,Hombre Space,2000,blue,670478.27,327099,poor,Natalya Croote,162 Park Meadow Pass
+WA1LMBFEXCD646413,Pontiac,Grand Prix,1974,white,654161.04,21980,poor,Leda Brimelow,87627 Summit Street
+2C3CDYCJ2EH606590,Dodge,Dakota,1999,green,339615.45,105939,excellent,Horace McKeighan,
+1GKMCCE31AR994298,Subaru,Impreza,2006,white,72608.03,94739,poor,Tove Jeffryes,83 Ryan Road
+WAUAF78E75A297018,Audi,5000S,1988,blue,581965.08,479014,good,Felike Brickhill,
+JM1DE1KY9D0597537,GMC,Acadia,2007,green,898148.74,307258,excellent,Huntley Edelheid,
+WA1CMAFP8FA523811,Jeep,Commander,2009,black,845293.84,345614,excellent,Hillel Alessandrelli,
+2C3CCABG4CH662589,Jeep,Liberty,2002,blue,550781.21,26186,good,Emilie Geeves,46977 Basil Drive
+WBAKF9C54BE388856,Hyundai,Azera,2008,white,751285.19,232430,good,Sybille Wickett,36 Fair Oaks Plaza
+5XXGM4A79CG171130,Mercury,Grand Marquis,1997,black,780377.99,220885,excellent,Dionisio Terbrug,03 Loeprich Pass
+2G4WD582871063309,Audi,A4,2012,black,36557.14,405446,excellent,Violetta Abelson,11387 Main Lane
+WAULH64B21N330535,Mercury,Capri,1992,black,429926.25,315891,good,Sutton Tunmore,6 8th Lane
+1FBNE3BL7AD505142,Toyota,Paseo,1996,blue,839112.72,67659,excellent,Christine Bony,2 Spaight Point
+WA1YD64B63N731801,Lincoln,Navigator,2002,red,163420.25,8288,good,Jan Harcase,37 Anzinger Way
+JN8AF5MV3FT616051,Oldsmobile,Bravada,2004,blue,659092.11,79632,good,Luca Botwood,1 Bartelt Terrace
+3N1BC1AP9AL520559,Mazda,B-Series,1998,red,637897.58,74578,excellent,Flin Neath,7 Sundown Crossing
+1C3BCBFG8CN459160,Cadillac,DeVille,2002,blue,588209.1,251890,fair,Shandie McGougan,1 Moland Center
+WBANF33526C752476,Kia,Spectra5,2006,blue,796644.04,456640,excellent,Elroy Brearley,42 Northridge Center
+WAUGL98E46A304717,Oldsmobile,Aurora,2001,red,953991.13,384912,poor,Ninnette Missington,91 Cascade Parkway
+WAULC58E74A708969,Dodge,Stealth,1995,red,264369.37,387990,poor,Oberon Vaen,
+KNDJT2A55D7546050,Mercury,Villager,2000,white,143938.82,35793,poor,Wyn Lody,614 Golden Leaf Alley
+WAUXL68E75A176891,Hyundai,Accent,1996,blue,749622.77,479028,excellent,Pascal Fairhead,3885 Coleman Lane
+NM0GE9F71F1939523,Lexus,SC,1995,red,377645.77,72934,excellent,Waite Darling,5103 Elmside Center
+WP0AB2A86FK615633,Jaguar,XK Series,2001,blue,696378.36,90703,excellent,Ronda Mosdill,8 Arizona Avenue
+4JGBB9FB5BA970404,Chevrolet,APV,1993,blue,294863.15,266993,good,Ode Lamputt,85 Darwin Plaza
+JHMFB4F20CS831624,Honda,Accord,1989,red,155520.61,169073,poor,,
+WBA4C9C57FD713688,Ford,Escape,2001,blue,564274.52,380844,fair,Ellissa Labbey,
+1GYEC63T52R109276,Land Rover,LR2,2011,blue,211709.84,127560,fair,Brennan Whitecross,56 Springview Alley
+1G4HR54K51U743857,Subaru,Outback,2001,blue,809804.75,208349,excellent,Mal Lipyeat,02 Crescent Oaks Crossing
+WA1WKBFP9BA692478,Cadillac,Escalade EXT,2012,green,509204.5,92581,fair,Brianne Shimony,99 Doe Crossing Place
+3VW1K7AJ1EM151526,Porsche,911,1998,black,9789.34,341282,poor,Elnora Eger,77888 Spohn Terrace
+WBADT43451G513605,Audi,riolet,1998,blue,682853.25,457569,fair,,8 Heffernan Trail
+19XFA1E36AE642408,Audi,Cabriolet,1997,black,527300.91,319789,fair,Theodore Cornick,09 Trailsway Terrace
+WBAUP9C50BV551766,GMC,Sierra 3500,2003,white,918233.02,282450,excellent,Sissie Skamell,23423 Summer Ridge Circle
+JN1BJ0HR2FM347181,Mercedes-Benz,CL-Class,1999,black,10902.19,333756,fair,Daisie Grunwall,92 West Point
+1FMJU1J5XAE172817,Pontiac,LeMans,1992,blue,86351.23,33035,fair,Myrtle Perks,488 Heath Drive
+WBAVB73517K640973,Mercury,Cougar,1995,white,91652.43,154400,good,Sella Mailey,
+1FTWX3B55AE902676,Geo,Prizm,1994,blue,728996.09,134278,good,Etti Chesshire,181 Golf Course Park
+1G4HR54K624804876,Mitsubishi,Lancer Evolution,2006,black,45463.19,366273,poor,Moyra Rioch,1 Hoard Avenue
+JTDKTUD33ED314088,Hummer,H2 SUT,2006,white,418708.54,448131,excellent,Cyb Raubenheimers,0407 Green Parkway
+SCFEBBAC7AG330555,Dodge,,2002,green,701091.54,423622,good,Augie Bortolutti,
+JTDZN3EU5EJ035141,Pontiac,Grand Am,1990,blue,50625.27,467486,fair,Stinky Eacott,802 Parkside Junction
+SALGS2TF3FA743235,Eagle,Vision,1996,red,73438.35,309731,poor,Brander Taillard,225 Mosinee Drive
+1N6AA0CA3BN667234,Cadillac,Escalade EXT,2004,black,376669.76,462007,excellent,Daron Sidle,
+WVWED7AJ7CW086404,Isuzu,Rodeo,2001,green,201095.1,139113,good,Helaine Storah,544 Pierstorff Junction
+WBA4A5C55FD548996,Chevrolet,Lumina,2000,blue,851658.53,137107,excellent,Chauncey Bucky,
+3D4PG3FG2BT874231,Mazda,Mazda3,2008,blue,537001.99,394698,excellent,Athene Bauser,11 Basil Court
+5N1AA0NC8BN036749,GMC,Yukon,1992,blue,66940.55,106754,poor,Coop Colegrove,4 Forest Run Circle
+1N6AF0LY0FN744002,Saab,,1987,blue,539008.08,122993,excellent,Belia Breyt,5575 Heath Street
+5UMDU93528L440888,Volkswagen,Golf III,1993,black,852613.84,379913,poor,Kelwin Dacres,6151 Johnson Place
+1N6AF0KY1EN234127,Mercury,Cougar,2000,red,636521.83,344627,fair,Cayla Nipper,1 Tony Court
+WBADN63423G506409,Daewoo,Lanos,2002,white,711297.88,197257,fair,Fairfax Rodenburg,86 Ohio Plaza
+WBAYM9C57ED217805,Mercedes-Benz,300CE,1993,black,469760.74,338674,good,Langsdon Thompkins,9 Longview Junction
+1B3CB8HB8AD590441,GMC,Acadia,2012,red,442418.45,257628,poor,Clerissa Shere,05 Lerdahl Circle
+2C3CDXJG7CH777656,Volvo,XC90,2012,blue,99548.33,207122,excellent,Roseline Haddock,31 Northport Avenue
+5N1AR2MM8FC702556,Chevrolet,Monte Carlo,1999,white,471628.14,10115,poor,Nanine Windibank,54 Kropf Pass
+1ZVBP8JZ7E5257020,Honda,Accord,2005,red,753856.02,394761,excellent,Lindy Doonican,369 Ridge Oak Street
+1G4GD5EG1AF409236,Chevrolet,Corvette,1988,white,663811.58,87625,excellent,Emmey Losebie,4 Miller Circle
+5N1AN0NW0EN435979,Pontiac,Sunfire,2005,white,20769.34,487932,fair,Kendra Kingswoode,481 Tomscot Point
+WP0AA2A81BU864228,Dodge,Avenger,2010,blue,371861.28,441986,fair,Ivan Libbie,3591 Packers Junction
+WBAYE8C53FD786353,Lexus,ES,1993,blue,960727.38,125770,poor,Elmo Webb,61133 Transport Street
+1GYFK53249R534457,Audi,TT,2012,blue,289997.76,426302,excellent,,69432 Clarendon Center
+WAUVT68EX5A913931,Chevrolet,Express 2500,2005,red,705619.06,139722,poor,,24426 Monument Parkway
+1G6AE5S32D0404470,Lexus,SC,1995,green,828980.98,328353,fair,Eulalie Inworth,34360 Maryland Point
+WDDGF5EB6BR423562,GMC,Savana 1500,2011,blue,907964.94,403953,poor,Bogart Struthers,
+TRUDD38J481884038,Acura,NSX,2003,green,288690.28,296173,good,Glory McGarry,5844 Ridgeway Avenue
+WA1LMAFE4FD501222,Lincoln,Blackwood,2002,blue,320598.04,338475,excellent,Sasha Thome,79804 Mariners Cove Avenue
+3N1BC1AP1BL998525,Porsche,928,1985,green,472633.79,363934,excellent,Melloney Casacchia,7 Corben Circle
+1VWAP7A33EC641146,Mitsubishi,Precis,1990,red,567892.55,319143,fair,Yoko Kubek,
+5J6TF1H39AL883705,Mercedes-Benz,S-Class,1984,white,815135.7,448207,fair,Gregor Manville,9981 Calypso Hill
+3VW4T7ATXEM240023,Honda,Accord,2011,blue,253349.45,81365,excellent,Pyotr Gooms,62 Kropf Hill
+JTEBU4BF5EK758168,Toyota,TundraMax,2009,white,387406.9,322646,excellent,Chelsae Curr,6886 Stuart Point
+JN1BY0AP5AM397411,Infiniti,G25,2012,green,751788.1,130418,excellent,Persis Christley,62416 Donald Hill
+5TDBW5G19DS482473,Ford,Focus,2012,white,976111.66,82962,good,Granthem Raff,80781 Banding Place
+WDDHF0EB8EA582920,Hyundai,Tiburon,2008,blue,789762.14,268394,good,Keelia Gotch,84 Park Meadow Junction
+5XYKT3A11CG960578,Subaru,B9 Tribeca,2006,blue,994422.71,243120,fair,Boonie Wainscot,63410 Maywood Avenue
+WAUBVAFBXAN334076,Mazda,Protege,2003,green,657666.66,451352,excellent,Sybyl Widmore,47675 Shopko Circle
+1G4PT5SV9D4222381,Volkswagen,Routan,2009,black,726525.73,120341,excellent,,
+WAUED64B21N792100,GMC,1500 Club Coupe,1998,green,481871.22,209540,good,Page Finicj,69504 Morningstar Place
+JTDKN3DP7F3325948,Dodge,Ram Van 2500,1999,white,20079.67,77654,fair,Berni Jobern,51 Oxford Crossing
+JN1CV6FE9DM409071,Subaru,Legacy,1996,red,605028.9,462212,fair,,30 Pankratz Circle
+1FTWW3B52AE843296,Dodge,Caravan,2007,red,861804.3,215139,good,Candida Fairest,83117 Mallard Terrace
+2G4WC582691692637,Chevrolet,Astro,1994,black,508564.51,81295,excellent,Myrna Gentiry,6230 Southridge Junction
+1C6RD6FK7CS479332,Lexus,,2006,white,263597.91,103856,poor,Case Winslade,64963 Express Drive
+WAUDGAFL8DA923814,Mazda,Miata MX-5,2012,red,791286.35,51638,good,,21 Warner Avenue
+5LMJJ2H54EE183970,Ford,F250,2009,black,332716.11,390048,poor,Cassie Sandry,73443 American Ash Hill
+2G4WF551921445511,Volvo,,1993,red,267918.87,20942,fair,Charlotte Chater,9617 Bobwhite Lane
+2G4GN5EX3E9385789,Chrysler,Town & Country,2007,black,830307.6,400811,good,Aleda Barnfield,16097 Mcbride Center
+1FMCU0E75AK127901,Chevrolet,Silverado 1500,2006,black,521414.39,190970,fair,Marje Doveston,24 Hoard Point
+KMHGC4DD1CU602215,Chevrolet,Lumina APV,1993,green,119451.63,366196,excellent,Rooney Thirkettle,
+3C63DPHL4CG815771,Plymouth,Voyager,1994,white,377292.74,295845,good,Charyl Titcom,
+2HNYD18614H629395,Mercedes-Benz,SLK-Class,1999,white,544024.34,176673,poor,Gilberte Lattka,
+JTHBE1BL9F1513837,Mercury,Mountaineer,2004,blue,573952.02,26340,good,Bob Canas,83185 Jackson Terrace
+WAUMF68P76A818698,Nissan,Murano,2007,green,71249.26,228713,fair,Graham Excell,0247 Montana Terrace
+2C4RRGAG8ER275419,Suzuki,Vitara,1999,red,558585.45,279161,excellent,Jemie Lobley,4 Buena Vista Hill
+NM0KS6AN4AT593911,Nissan,Pathfinder,2001,white,943828.24,493286,good,Todd McLellan,6 Florence Court
+WBA3B1C52EF459813,Saab,9-5,2006,blue,808997.56,259941,excellent,Patin Boodell,
+WAU2GBFC8DN561263,Buick,Roadmaster,1994,green,22726.59,59721,fair,Madlin Marcone,4 Merrick Junction
+WAULT58E75A915279,Chevrolet,Impala SS,1995,green,949849.07,329971,good,Breena Guillon,70668 Michigan Alley
+WBAPK53579A961146,Saab,9-5,2006,red,359517.73,353114,excellent,Ursula Gooderick,036 Morrow Park
+WAUBH74F47N548778,Audi,A5,2008,black,21651.31,411567,poor,Webster Leather,7717 Orin Hill
+1N6AD0CU4FN248848,Ford,Explorer,2006,green,117881.53,334157,fair,,1 Anniversary Avenue
+19XFB2E56CE486698,Chevrolet,Tahoe,1996,blue,528767.75,158490,good,Harriett Wrotchford,388 Muir Terrace
+WAUJC68E34A204206,Honda,CR-V,2003,red,977781.48,193196,excellent,Madelle Rackley,47 Leroy Road
+1G6KD57Y67U399220,Cadillac,Fleetwood,1992,white,861033.18,258281,excellent,Iona Maghull,93584 Fairview Plaza
+WUAAU342X8N155985,Mercedes-Benz,S-Class,2008,red,267465.65,88096,fair,Sherman Sukbhans,62564 Milwaukee Court
+WAUKF68E95A685754,Hyundai,Accent,2005,white,600729.37,347365,excellent,Madella Lowde,254 Raven Circle
+1GYUCKEF8AR650848,Mitsubishi,GTO,1995,black,171559.81,437915,poor,Cammi Matthias,62191 Hermina Point
+2D4RN7DG4BR134336,Oldsmobile,LSS,1998,red,466431.85,70017,fair,Elie Baukham,
+YV1672MK8B2371454,Mazda,Millenia,2001,red,971061.38,450296,fair,Micheal Skepper,69336 Upham Center
+WAUMF68P76A592906,Mitsubishi,Mirage,1995,blue,240680.54,212338,poor,Vanessa Chastenet,530 Elmside Park
+1G6DM57N230773001,Chevrolet,Impala,2002,red,812239.62,439924,good,Constance Bottomley,66721 Green Ridge Court
+19UUA9F28CA857503,Volkswagen,Golf,2003,blue,862680.99,364080,poor,,080 Forster Plaza
+3VW1K7AJ0DM180806,Toyota,FJ Cruiser,2012,black,419125.35,117681,good,Andy Fiddler,7457 Hollow Ridge Point
+WBANA73515C706402,Hyundai,Santa Fe,2001,green,334557.49,187097,excellent,Daniella Cissen,1361 Drewry Terrace
+YV1612FS3E2984164,GMC,Yukon,2005,blue,229879.39,251921,poor,Gwyneth Duck,958 Portage Park
+WBXPC93488W940261,Pontiac,1000,1984,black,806719.49,373105,poor,Jessalyn Maleham,
+WBA3B1C58EF866308,Acura,RL,1997,red,831316.88,301893,fair,Willdon Murtell,5210 Atwood Junction
+1GYS3BEFXCR671162,Toyota,FJ Cruiser,2008,red,586155.85,136825,poor,Guillaume Leguay,4 Barnett Avenue
+5N1AN0NW0DN663494,Ford,,1995,black,459840.55,452294,poor,Aland Hankin,6126 Esch Center
+WAUPFBFM1BA794102,Infiniti,G37,2012,green,982110.22,293832,poor,Nadia Jerrans,025 Hauk Center
+KMHGH4JH3EU002985,Chevrolet,Corvette,1961,white,686745.2,252639,poor,,5 Victoria Road
+1G4HP57M49U514259,Toyota,Tacoma,2001,green,359472.22,93242,poor,Emma Domenichini,2 Bunting Way
+1GYFC435X9R486027,Maserati,Karif,1990,blue,303301.51,168793,poor,Bekki Venediktov,2158 Ruskin Hill
+1GKS1AEC9FR481051,Toyota,Supra,1994,red,783894.48,365216,poor,Mignon Macer,1 Maryland Road
+1G6DL8ED9B0227860,Geo,Storm,1993,red,865567.6,27407,excellent,Juliana Lenormand,90569 Pleasure Trail
+1HGCR2E74FA010376,Pontiac,Grand Prix,1992,green,23581.89,88705,excellent,Cora Jenoure,311 Butterfield Street
+SAJWA4HA6EM405731,GMC,Sierra 3500,2008,white,504976.6,82204,excellent,Michaeline Just,818 Grasskamp Park
+WBAKA4C50BC563164,Audi,S4,2008,blue,815964.69,32490,fair,,
+1C3CCBAB6CN373670,Audi,S8,2003,black,358286.15,234191,excellent,Wainwright Probate,2873 Mcbride Road
+4T1BF3EK8BU198708,Suzuki,Grand Vitara,2010,black,529020.52,287775,fair,Christie Dowbekin,6 Bartillon Junction
+1FTEW1C85AF037939,Smart,Fortwo,2011,green,843640.93,490873,good,Hercules Lamp,8556 Waubesa Junction
+1N6AF0LY4EN537207,Hyundai,Sonata,2000,white,29934.26,337121,poor,Elmore Hyndley,005 Kim Place
+5N1BA0NE3FN913742,Ford,Expedition EL,2009,blue,834115.7,198385,excellent,Sylvester Hartin,1 Nova Terrace
+WA1LFAFP6EA587189,GMC,Suburban 2500,1997,green,421241.63,410037,excellent,Gretel Cottrill,
+5UXZV4C51CL456758,GMC,Savana 2500,2001,blue,126991.7,220778,poor,Fancie Kittless,8571 Fairfield Alley
+WAUHGAFC9DN221348,Ford,F250,2006,blue,288431.11,256667,fair,Orton Kepp,8 Pond Place
+5N1AR2MM4DC456117,Lexus,LX,2007,white,821055.61,237068,good,Parsifal Lankester,17 Delladonna Circle
+5N1AN0NW4DN557291,Chevrolet,Colorado,2004,red,335891.3,155984,fair,Jorey Whebell,412 Merrick Point
+3C63D2JL1CG137669,Toyota,Camry,2001,black,314212.48,257812,excellent,Tilda Benyan,81 Dixon Drive
+3CZRE3H39AG395425,Maserati,Spyder,2004,black,41514.35,35322,fair,Aveline Wardhaw,5 Burning Wood Alley
+1YVHZ8BH5A5309181,Aston Martin,Vanquish S,2005,green,288395.51,125238,fair,Mar Moukes,98 Roth Center
+WAUEKBFB3BN906182,Cadillac,XLR,2005,red,746327.01,76332,good,Aldin Chalfont,732 Lotheville Plaza
+1GYS4HKJ9FR452853,Audi,Allroad,2001,white,822982.88,405173,excellent,Vannie McGloughlin,435 Esch Way
+WAUHFAFL6CA342556,Mazda,B2500,2001,white,110664.08,30250,good,Tammie Rosenau,8 Ronald Regan Point
+JTDBT4K33A1355433,Toyota,Celica,1976,red,866652.37,399715,good,,7560 Judy Drive
+1GYS3JEF1CR786887,Mazda,626,1990,black,436895.44,484492,excellent,Mervin Westoff,43646 Chinook Center
+JN1CV6FEXDM375254,Porsche,911,1991,blue,215188.85,298441,good,Morris Meneyer,1149 Lyons Terrace
+1GYS4HEF6ER864847,Mercury,Mariner,2010,red,772841.74,302766,good,Riley Jillings,
+WAUGL98E35A820520,Subaru,XT,1991,blue,418674.12,78720,poor,Michelle Whenman,61 Macpherson Alley
+WAUSF98E07A017104,Dodge,,1997,green,917948.06,437451,poor,Catharina Petrello,
+JTEBU4BF6AK317479,Dodge,Caravan,1993,blue,521097.71,424273,good,,09613 Muir Street
+WBALM53569E769539,Hyundai,Sonata,2010,black,120033.46,309228,good,Dyan Dreher,
+WBA3C1G50EN204221,Mitsubishi,Outlander,2004,white,875406.45,292097,fair,Stanford Cornels,
+SCFEBBCF6BG067791,Toyota,RAV4,1997,green,725665.71,123238,poor,Riannon Birtwistle,8 Fuller Hill
+3GYFNDE34ES516734,BMW,5 Series,1994,white,900634.7,154006,fair,Rozina Evans,57 Hansons Park
+2T2BK1BA5DC933608,Infiniti,IPL G,2011,red,109201.06,357566,poor,Sherlocke VanBrugh,678 Northwestern Parkway
+5N1AR2MM2FC391951,MINI,Cooper,2003,white,77860.41,1307,excellent,Eirena Mc Meekan,9 Fairfield Crossing
+4A31K2DF8CE887540,Audi,4000s Quattro,1986,white,537283.0,245075,poor,Bengt Egiloff,69 Golf Plaza
+SALAB2V63FA775279,Mazda,MPV,2005,red,267519.51,481007,fair,Pauletta Melledy,44 Sycamore Alley
